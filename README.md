@@ -2,7 +2,7 @@
 ##Розробка структури класів з урахуванням зазначеної предметної області.
 
 ##UML-діаграма
-![UML-діаграма лікарні](images\uml-diagram hospital.png)
+![UML-діаграма лікарні](uml-diagram hospital.png)
 
 > - Inner class: `Administrator`  
 > - Static nested class: `Department`  
@@ -12,5 +12,5 @@
 > - Асоціація: Doctor → Patient
 
 ##Виконання коду
-![Виконання коду](images\result.png)
+![Виконання коду](result.png)
 
